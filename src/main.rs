@@ -1,3 +1,5 @@
+mod enum_versus_bool;
+
 fn main() {
     println!("Hello, world!");
 }
